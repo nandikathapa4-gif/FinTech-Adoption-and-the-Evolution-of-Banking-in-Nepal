@@ -9,12 +9,18 @@ Master's applicant in Finance/Economics | Empirical analysis of FinTech adoption
 
 [Open Interactive Notebook](FinTech_Survey_Analysis_Nepal.ipynb)
 
-### Visualisations
+### Respondent Demographics
+![Occupation Distribution](occupation_pie.png)  
+![Financial Services Used](financial_services_bar.png)   
+![Primary Services](primary_services_bar.png)
+
+### Key Insights
 ![Branch Reduction](branch_reduction.png)  
-![Satisfaction Scores](satisfaction.png)  
 ![Top Adoption Drivers](adoption_drivers.png)  
-![Location-Specific Reasons](location_bars.png)  
-![FinTech Future Outlook](co_existence.png)  
+![Top Challenges](top_challenges.png)  
+![Bank Innovation Perception](bank_innovation_bar.png)  
+
+
 
 
 Contact: nandikathapa4@gmail.com | LinkedIn: www.linkedin.com/in/

@@ -6,12 +6,30 @@
 [![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/seaborn-3D3B3A?logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
-Master's applicant in Finance/Economics | Empirical analysis of FinTech adoption in Nepal (pandas, seaborn).
+**Overview
+**
+This project investigates the adoption and impact of FinTech services in Nepal’s banking sector using primary survey data (110+ responses). The analysis focuses on adoption drivers, user satisfaction, challenges, and the potential for FinTech to reduce physical bank visits.
 
-## Key Project: Impact of FinTech on Traditional Banking in Nepal
+Tools & Techniques: Python, pandas, seaborn, matplotlib, statsmodels, chi-square tests, logistic regression, econometric modeling.
 
-- Primary survey (110+ responses, 2024–2025).
-- Findings: Convenience/speed dominate adoption; ~90% reduced branch visits; satisfaction ~4/5; challenges security/connectivity; ~40% expect co-existence in 10 years.
+**Key Contributions:
+**
+Designed and analyzed a primary survey targeting adoption, satisfaction, and challenges of FinTech services.
+Created data visualizations (bar plots, pie charts, heatmaps) to communicate adoption patterns and challenges.
+Conducted inferential statistics: Chi-square tests and logistic regression to identify drivers of reduced branch visits.
+Addressed statistical modeling challenges such as quasi-separation in logistic regression, ensuring robust and interpretable odds ratios.
+
+**Dataset
+**Survey of 110+ respondents across different age groups, cities, occupations, and education levels.
+
+**Questions covered:
+**
+Demographics (age, location, occupation, education)
+FinTech usage frequency and types of services
+Reasons for using FinTech vs. traditional banking
+Satisfaction with FinTech services
+Perceived reduction in physical bank visits
+Future outlook of FinTech adoption in Nepal
 
 [Open Interactive Notebook](FinTech_Survey_Analysis_Nepal.ipynb)
 
